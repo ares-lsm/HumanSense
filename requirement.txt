@@ -1,0 +1,5 @@
+numpy==1.21.6
+opencv-python==4.11.0.86
+scikit-learn==1.0.2
+tensorflow==2.10.0
+torch==1.13.1
